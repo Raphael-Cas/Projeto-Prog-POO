@@ -1,21 +1,11 @@
 # Projeto-Prog-POO
 Este repositorio tem como objetivo mostrar um de nossos projetos em POO.
 
-Colaboradores: Lucas Gomes; Raphael Castro; Pedro Passos;
+## Colaboradores: Lucas Gomes; Raphael Castro; Pedro Passos;
 
 # Sistema de Logística Militar
 
 Sistema em Java (terminal) para gerenciar as forças e os recursos de um exército fictício: soldados, tanques, aviões, barcos e artilharias, além de dinheiro, munição e missões.
-
-## Integrantes
-
-| Integrante | Função / parte do sistema |
-|---|---|
-| [Nome 1] | [ex.: classes de domínio (Soldado, Tanque, Aviao, Barco, Artilharia)] |
-| [Nome 2] | [ex.: Logistica, regras de negócio e missões] |
-| [Nome 3] | [ex.: menu (Main), exportação CSV e testes] |
-
-> Preencher com os nomes e responsabilidades reais da equipe.
 
 ## Descrição do problema
 
