@@ -3,6 +3,8 @@ Este repositorio tem como objetivo mostrar um de nossos projetos em POO.
 
 ## Colaboradores: Lucas Gomes; Raphael Castro; Pedro Passos;
 
+## Professor: Isaac Elgrably
+
 # Sistema de Logística Militar
 
 Sistema em Java (terminal) para gerenciar as forças e os recursos de um exército fictício: soldados, tanques, aviões, barcos e artilharias, além de dinheiro, munição e missões.
